@@ -1,1 +1,1 @@
-# nfl-matuchup-points-projections
+# NFL Totals prokections
