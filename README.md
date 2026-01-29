@@ -1,1 +1,1 @@
-# NFL Totals projections
+# NFL Totals Projections
